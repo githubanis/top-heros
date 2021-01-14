@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "top-heros"
+  "defaultProject": "top-heros",
+  "cli": {
+    "analytics": false
+  }
 }
